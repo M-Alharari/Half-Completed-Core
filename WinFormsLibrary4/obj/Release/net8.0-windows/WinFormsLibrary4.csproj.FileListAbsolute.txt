@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\WinFormsLibrary4\bin\Release\net8.0-windows\WinFormsLibrary4.deps.json
+C:\Users\Dell\source\repos\WinFormsLibrary4\bin\Release\net8.0-windows\WinFormsLibrary4.dll
+C:\Users\Dell\source\repos\WinFormsLibrary4\bin\Release\net8.0-windows\WinFormsLibrary4.pdb
+C:\Users\Dell\source\repos\WinFormsLibrary4\obj\Release\net8.0-windows\WinFormsLibrary4.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\WinFormsLibrary4\obj\Release\net8.0-windows\WinFormsLibrary4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\WinFormsLibrary4\obj\Release\net8.0-windows\WinFormsLibrary4.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\WinFormsLibrary4\obj\Release\net8.0-windows\WinFormsLibrary4.AssemblyInfo.cs
+C:\Users\Dell\source\repos\WinFormsLibrary4\obj\Release\net8.0-windows\WinFormsLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WinFormsLibrary4\obj\Release\net8.0-windows\WinFormsLibrary4.sourcelink.json
+C:\Users\Dell\source\repos\WinFormsLibrary4\obj\Release\net8.0-windows\WinFormsLibrary4.dll
+C:\Users\Dell\source\repos\WinFormsLibrary4\obj\Release\net8.0-windows\refint\WinFormsLibrary4.dll
+C:\Users\Dell\source\repos\WinFormsLibrary4\obj\Release\net8.0-windows\WinFormsLibrary4.pdb
+C:\Users\Dell\source\repos\WinFormsLibrary4\obj\Release\net8.0-windows\ref\WinFormsLibrary4.dll

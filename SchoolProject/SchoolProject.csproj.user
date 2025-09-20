@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Dell\source\repos\SchoolProject\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Assiging Forms\AssignClassesToTeachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Assiging Forms\AssignTeachersToSubjecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attendance\AttendanceCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Behaviours\BehaviourList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Comparison\waittt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Comparison\frmCompareStudentsInAClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\Controls\ctrlUserCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Grades\frmAddUpdateGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Subjects\frmAddUpdateSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Terms\frmaddUpdateTerm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmAddUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Grades\frmGradeslist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmManageUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Salary Deduction\frmSalaryDeductionSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="School Info\frmSchoolInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Subjects\frmSubjectList,cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Subjects\frmSubjectsInGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Terms\frmTermslist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guardians\Controls\ctGuardianCardWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Employees\Controls\ctrlEmployeeCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Employees\Controls\ctrlEmployeeCardWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="People\Controls\ctrlPersonCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Students\Controls\ctrlStudentCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Teachers\Controls\ctrlTeacherAttendanceCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Teachers\ctrlTeacherCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="People\Controls\ctrPersonCardWithFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Enrollments\EnrollmnetsDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Assessment and Exams\Enter Scores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Assessment and Exams\EnterScores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="License\frmActivateLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Classes\frmAddUdateClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Behaviours\frmAddUpdateBehaviour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employees\frmAddUpdateEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guardians\frmAddUpdateGuardian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guardians\frmAddUpdateGuardians.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fees and Payments\frmAddUpdatePaymentTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="People\frmAddUpdatePerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Positions\frmAddUpdatePosition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\frmAddUpdateStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teachers\frmAddUpdateTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Assiging Forms\frmAssignSubjectsToGrades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attendance\frmAttendaceManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attendance\frmAttendanceSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Audit Log\frmAuditLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Classes\frmClasseslist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Comparison\frmCompareGradesScores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attendance\frmDailyAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employees\frmEmployeelist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employees\frmEmployeesPayroll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Enrollments\frmEnrollmentHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Enrollments\frmEnrollmentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Enrollments\frmEnrollStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFeesReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFeesReceiptViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fees and Payments\frmfinancialdashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="People\frmFindPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guardians\frmGraduateStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fees and Payments\Installments\frmInstallmnetRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guardians\frmLinkGuardianToStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fees and Payments\frmListFeesTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fees and Payments\frmPayInstallment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fees and Payments\frmPaymentManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fees and Payments\frmPendingPaymentsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="People\frmPeopleManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Positions\frmPositionManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReportCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employees\frmShowEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="People\frmShowPersonDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Behaviours\frmStudentBehaviorslist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\frmStudentDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\frmStudentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\frmStudentPerformanceTrends.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teachers\frmTeacherDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teachers\frmTeacherList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fees and Payments\frmTuitionPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Assessment and Exams\GradeClassStudentsExam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guardians\GuardianList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guardians\GuardianStudentsDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guardians\GuardianStudentsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attendance\MonthlyAttendanceView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReceiptDemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Audit Log\ShowAuditDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Behaviours\ShowBehavioursDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TimeTableGenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tryout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
